@@ -1,7 +1,7 @@
 {
-  "name": "exif-js",
-  "version": "2.3.0",
-  "description": "JavaScript library for reading EXIF image metadata",
+  "name": "@phoco/exif-js",
+  "version": "1.0.0",
+  "description": "Forked from exif-js",
   "main": "exif.js",
   "types": "exif.d.ts",
   "directories": {
