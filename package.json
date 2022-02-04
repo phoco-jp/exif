@@ -1,5 +1,5 @@
 {
-  "name": "@phoco/exif-js",
+  "name": "@phoco/exif",
   "version": "1.0.0",
   "description": "Forked from exif-js",
   "main": "exif.js",
