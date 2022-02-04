@@ -8,3 +8,9 @@ interface EXIFStatic {
 
 declare var EXIF : EXIFStatic;
 export = EXIF;
+
+export interface EXIFNumber {
+    denominator: number
+    numerator: number
+    valueOf(): number
+}
