@@ -53,7 +53,7 @@
         0x829D : "FNumber",                 // F number
         0x8822 : "ExposureProgram",         // Exposure program
         0x8824 : "SpectralSensitivity",     // Spectral sensitivity
-        0x8827 : "ISOSpeedRatings",         // ISO speed rating
+        0x8827 : "PhotographicSensitivity", // ISO speed
         0x8828 : "OECF",                    // Optoelectric conversion factor
         0x9201 : "ShutterSpeedValue",       // Shutter speed
         0x9202 : "ApertureValue",           // Lens aperture
