@@ -93,10 +93,8 @@
         // other tags
         0xA005 : "InteroperabilityIFDPointer",
         0xA420 : "ImageUniqueID",           // Identifier assigned uniquely to each image
-        0xA432 : "LensSpecification",
         0xA433 : "LensMake",
-        0xA434 : "LensModel",
-        0xA435 : "LensSerialNumber",
+        0xA434 : "LensModel"
     };
 
     var TiffTags = EXIF.TiffTags = {
