@@ -4,6 +4,11 @@
 
     var root = this;
 
+    if (typeof window === "undefined") {
+        const { Blob } = require("buffer");
+        global.Blob = Blob;
+    }
+
     var EXIF = function(obj) {
         if (obj instanceof EXIF) return obj;
         if (!(this instanceof EXIF)) return new EXIF(obj);

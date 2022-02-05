@@ -1,6 +1,6 @@
 {
   "name": "@phoco/exif",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Forked from exif-js",
   "main": "exif.js",
   "types": "exif.d.ts",
